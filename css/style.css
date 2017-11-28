@@ -49,6 +49,7 @@ header {
   font-size: 25px;
   padding-top: 50px;
   text-align: center;
+  font-family: 'Open Sans', sans-serif;
 }
 
 .current__issue {
@@ -169,6 +170,7 @@ header {
 .design__credit {
   text-align: center;
   padding: 20px;
+  font-family: 'Open Sans', sans-serif;
 }
 
 .current__issue img {
@@ -292,6 +294,7 @@ footer {
   .flex__grid {
   display: flex;
   margin-top: 50px;
+  flex-wrap: wrap;
  }
   .col {
    flex: 1;
